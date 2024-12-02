@@ -1,7 +1,1 @@
-# Deneme
-# Orginal
-# Proje1
-# Proje1
-# Proje1
-# Proje1
-# Original
+# 1.Proje_Udemig-Akademy
