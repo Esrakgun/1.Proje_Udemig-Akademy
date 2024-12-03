@@ -2,15 +2,13 @@
 
 # Proje Özellikleri
 
-Bu projede Html, Css ve JavaScrıpt kullanılarak bir film sitesi hazırlanmıştır.
+Bu projede Html, Css ve JavaScrıpt kullanılarak bir Eğitim sitesi hazırlanmıştır.
 
 # Projede Kullanılan Diller ve Araçlar
 
-Html
-Css
-Javascript
-Visual Studio Code
+Html,
+Css,
+Javascript,
+Visual Studio Code.
 
 # Proje Gif
-
-![alt text](<Udemig- Akademy.gif>)
