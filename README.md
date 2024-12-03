@@ -12,3 +12,5 @@ Javascript,
 Visual Studio Code.
 
 # Proje Gif
+
+![](UdemigAkademy.gif)
