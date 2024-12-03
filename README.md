@@ -11,4 +11,6 @@ Css
 Javascript
 Visual Studio Code
 
-# Proje Gif ![alt text](<Udemig- Akademy.gif>)
+# Proje Gif
+
+![alt text](<Udemig- Akademy.gif>)
