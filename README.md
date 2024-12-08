@@ -1,4 +1,4 @@
-# 1.Proje_Udemig-Akademy
+#Udemig-Akademy
 
 # Proje Özellikleri
 
